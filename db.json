@@ -1,0 +1,19 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "Users": [
+    {
+      "firstname": "Test",
+      "lastname": "test1",
+      "city": "safasfd",
+      "pincode": "wer",
+      "mobileNo": "9876543210",
+      "id": 1
+    }
+  ]
+}
